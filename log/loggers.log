@@ -1,0 +1,22 @@
+2022-08-21 16:11:49 INFO  DentistDAO:23 - se añadio correctamente al usuario :Sebastian Robayo
+  2022-08-21 16:11:49 INFO  DentistDAO:23 - se añadio correctamente al usuario :Steven Rayo
+  2022-08-21 16:11:49 ERROR DentistDAO:27 - ya hay un usuario registrado con esta matricula
+  2022-08-21 16:11:49 INFO  DentistDAO:66 - 1007 Sebastian Robayo
+  2022-08-21 16:11:49 INFO  DentistDAO:66 - 3215 Steven Rayo
+  2022-08-21 16:11:49 INFO  DentistDAO:46 - 1007 Sebastian Robayo
+  2022-08-21 16:11:49 INFO  DentistDAO:48 - el usuario no fue encontrado, rectifica los parametros
+  2022-08-21 16:12:24 INFO  DentistDAO:23 - se añadio correctamente al usuario :Sebastian Robayo
+  2022-08-21 16:12:24 INFO  DentistDAO:23 - se añadio correctamente al usuario :Steven Rayo
+  2022-08-21 16:12:24 ERROR DentistDAO:27 - ya hay un usuario registrado con esta matricula
+  2022-08-21 16:12:25 INFO  DentistDAO:66 - 1007 Sebastian Robayo
+  2022-08-21 16:12:25 INFO  DentistDAO:66 - 3215 Steven Rayo
+  2022-08-21 16:12:25 INFO  DentistDAO:46 - 1007 Sebastian Robayo
+  2022-08-21 16:12:25 INFO  DentistDAO:48 - el usuario no fue encontrado, rectifica los parametros
+  2022-08-24 19:24:42 INFO  DentistDAO:23 - se añadio correctamente al usuario :Sebastian Robayo
+  2022-08-24 19:24:42 INFO  DentistDAO:23 - se añadio correctamente al usuario :Steven Rayo
+  2022-08-24 19:24:42 ERROR DentistDAO:27 - ya hay un usuario registrado con esta matricula
+  2022-08-24 19:24:42 INFO  DentistDAO:66 - 1007 Sebastian Robayo
+  2022-08-24 19:24:42 INFO  DentistDAO:66 - 3215 Steven Rayo
+  2022-08-24 19:24:42 INFO  DentistDAO:46 - 1007 Sebastian Robayo
+  2022-08-24 19:24:42 INFO  DentistDAO:48 - el usuario no fue encontrado, rectifica los parametros
+  
